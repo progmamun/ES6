@@ -20,6 +20,7 @@ anothor methods
 var p = 5;
 var q = 7;
 
+
 [p, q] = [q, p];
 console.log("After swap: p =", p, "q =", q);
 */
