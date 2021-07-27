@@ -8,5 +8,6 @@ class Student{
 const student1 = new Student(12, "Mamun");
 const student2 = new Student(22, "Azmol");
 
+
 // console.log(student1, student2);
-console.log(student1, student2.name);
+console.log(student1, student2.name); //access properties
